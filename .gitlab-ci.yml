@@ -1,0 +1,8 @@
+
+
+
+stages:
+  - test
+  - build
+variables:
+  LANGUAGE: go
